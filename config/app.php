@@ -198,8 +198,8 @@ return [
         
         
         // 追加
-        'Form'  => Collective\Html\FormFacade::class,
-        'Html'  => Collective\Html\HtmlFacade::class,
+        'Form' => Collective\Html\FormFacade::class,
+        'Html' => Collective\Html\HtmlFacade::class,
 
     ],
 
