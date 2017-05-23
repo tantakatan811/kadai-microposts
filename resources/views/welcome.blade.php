@@ -19,7 +19,6 @@
                 @endif
             </div>
         </div>
-        
     @else
         <div class="center jumbotron">
             <div class="text-center">
